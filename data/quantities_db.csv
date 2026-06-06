@@ -1,0 +1,161 @@
+room_id,level,trade,quantity,unit
+1440368,L 1,Interior Walls,5.0,EA/crew-hour
+1440368,L 1,MEP,21.0,EA/crew-hour
+1440368,L 1,Ceiling,3.0,EA/crew-hour
+1440368,L 1,Doors,1.0,EA/crew-hour
+1440368,L 1,Interior Finishes,264.0,SF/crew-hour
+1440369,L 1,Interior Walls,4.0,EA/crew-hour
+1440369,L 1,MEP,6.0,EA/crew-hour
+1440369,L 1,Ceiling,3.0,EA/crew-hour
+1440369,L 1,Doors,1.0,EA/crew-hour
+1440369,L 1,Interior Finishes,349.0,SF/crew-hour
+1440371,L 1,Interior Walls,5.0,EA/crew-hour
+1440371,L 1,MEP,8.0,EA/crew-hour
+1440371,L 1,Ceiling,3.0,EA/crew-hour
+1440371,L 1,Doors,1.0,EA/crew-hour
+1440371,L 1,Interior Finishes,263.0,SF/crew-hour
+1440372,L 1,Interior Walls,2.0,EA/crew-hour
+1440372,L 1,MEP,21.0,EA/crew-hour
+1440372,L 1,Ceiling,3.0,EA/crew-hour
+1440372,L 1,Doors,1.0,EA/crew-hour
+1440372,L 1,Interior Finishes,350.0,SF/crew-hour
+1440376,L 1,Interior Walls,62.0,EA/crew-hour
+1440376,L 1,MEP,85.0,EA/crew-hour
+1440376,L 1,Ceiling,12.0,EA/crew-hour
+1440376,L 1,Doors,8.0,EA/crew-hour
+1440376,L 1,Interior Finishes,4615.0,SF/crew-hour
+1440380,L 1,Interior Walls,4.0,EA/crew-hour
+1440380,L 1,MEP,6.0,EA/crew-hour
+1440380,L 1,Ceiling,3.0,EA/crew-hour
+1440380,L 1,Doors,1.0,EA/crew-hour
+1440380,L 1,Interior Finishes,354.0,SF/crew-hour
+1440381,L 1,Interior Walls,4.0,EA/crew-hour
+1440381,L 1,MEP,8.0,EA/crew-hour
+1440381,L 1,Ceiling,3.0,EA/crew-hour
+1440381,L 1,Doors,1.0,EA/crew-hour
+1440381,L 1,Interior Finishes,391.0,SF/crew-hour
+1440382,L 1,Interior Walls,5.0,EA/crew-hour
+1440382,L 1,MEP,9.0,EA/crew-hour
+1440382,L 1,Ceiling,3.0,EA/crew-hour
+1440382,L 1,Doors,1.0,EA/crew-hour
+1440382,L 1,Interior Finishes,496.0,SF/crew-hour
+1440383,L 1,Interior Walls,4.0,EA/crew-hour
+1440383,L 1,MEP,16.0,EA/crew-hour
+1440383,L 1,Ceiling,3.0,EA/crew-hour
+1440383,L 1,Doors,1.0,EA/crew-hour
+1440383,L 1,Interior Finishes,425.0,SF/crew-hour
+1440384,L 1,Interior Walls,4.0,EA/crew-hour
+1440384,L 1,MEP,10.0,EA/crew-hour
+1440384,L 1,Ceiling,3.0,EA/crew-hour
+1440384,L 1,Doors,1.0,EA/crew-hour
+1440384,L 1,Interior Finishes,443.0,SF/crew-hour
+1440385,L 1,Interior Walls,5.0,EA/crew-hour
+1440385,L 1,MEP,9.0,EA/crew-hour
+1440385,L 1,Ceiling,3.0,EA/crew-hour
+1440385,L 1,Doors,1.0,EA/crew-hour
+1440385,L 1,Interior Finishes,445.0,SF/crew-hour
+1440388,L 1,Interior Walls,3.0,EA/crew-hour
+1440388,L 1,MEP,12.0,EA/crew-hour
+1440388,L 1,Ceiling,3.0,EA/crew-hour
+1440388,L 1,Doors,1.0,EA/crew-hour
+1440388,L 1,Interior Finishes,268.0,SF/crew-hour
+1440389,L 1,Interior Walls,1.0,EA/crew-hour
+1440389,L 1,MEP,127.0,EA/crew-hour
+1440389,L 1,Ceiling,1.0,EA/crew-hour
+1440389,L 1,Doors,0.0,EA/crew-hour
+1440389,L 1,Interior Finishes,79.0,SF/crew-hour
+1440394,L 1,Interior Walls,2.0,EA/crew-hour
+1440394,L 1,MEP,13.0,EA/crew-hour
+1440394,L 1,Ceiling,3.0,EA/crew-hour
+1440394,L 1,Doors,1.0,EA/crew-hour
+1440394,L 1,Interior Finishes,185.0,SF/crew-hour
+1440395,L 1,Interior Walls,3.0,EA/crew-hour
+1440395,L 1,MEP,8.0,EA/crew-hour
+1440395,L 1,Ceiling,3.0,EA/crew-hour
+1440395,L 1,Doors,1.0,EA/crew-hour
+1440395,L 1,Interior Finishes,312.0,SF/crew-hour
+1440396,L 1,Interior Walls,4.0,EA/crew-hour
+1440396,L 1,MEP,7.0,EA/crew-hour
+1440396,L 1,Ceiling,3.0,EA/crew-hour
+1440396,L 1,Doors,1.0,EA/crew-hour
+1440396,L 1,Interior Finishes,433.0,SF/crew-hour
+1440397,L 1,Interior Walls,3.0,EA/crew-hour
+1440397,L 1,MEP,6.0,EA/crew-hour
+1440397,L 1,Ceiling,3.0,EA/crew-hour
+1440397,L 1,Doors,1.0,EA/crew-hour
+1440397,L 1,Interior Finishes,351.0,SF/crew-hour
+1440398,L 1,Interior Walls,3.0,EA/crew-hour
+1440398,L 1,MEP,7.0,EA/crew-hour
+1440398,L 1,Ceiling,3.0,EA/crew-hour
+1440398,L 1,Doors,1.0,EA/crew-hour
+1440398,L 1,Interior Finishes,316.0,SF/crew-hour
+1440399,L 1,Interior Walls,4.0,EA/crew-hour
+1440399,L 1,MEP,8.0,EA/crew-hour
+1440399,L 1,Ceiling,3.0,EA/crew-hour
+1440399,L 1,Doors,1.0,EA/crew-hour
+1440399,L 1,Interior Finishes,436.0,SF/crew-hour
+1440400,L 1,Interior Walls,3.0,EA/crew-hour
+1440400,L 1,MEP,7.0,EA/crew-hour
+1440400,L 1,Ceiling,3.0,EA/crew-hour
+1440400,L 1,Doors,1.0,EA/crew-hour
+1440400,L 1,Interior Finishes,350.0,SF/crew-hour
+1440401,L 1,Interior Walls,3.0,EA/crew-hour
+1440401,L 1,MEP,7.0,EA/crew-hour
+1440401,L 1,Ceiling,3.0,EA/crew-hour
+1440401,L 1,Doors,1.0,EA/crew-hour
+1440401,L 1,Interior Finishes,312.0,SF/crew-hour
+1440402,L 1,Interior Walls,4.0,EA/crew-hour
+1440402,L 1,MEP,7.0,EA/crew-hour
+1440402,L 1,Ceiling,3.0,EA/crew-hour
+1440402,L 1,Doors,1.0,EA/crew-hour
+1440402,L 1,Interior Finishes,440.0,SF/crew-hour
+1440403,L 1,Interior Walls,3.0,EA/crew-hour
+1440403,L 1,MEP,7.0,EA/crew-hour
+1440403,L 1,Ceiling,3.0,EA/crew-hour
+1440403,L 1,Doors,1.0,EA/crew-hour
+1440403,L 1,Interior Finishes,350.0,SF/crew-hour
+1440404,L 1,Interior Walls,3.0,EA/crew-hour
+1440404,L 1,MEP,7.0,EA/crew-hour
+1440404,L 1,Ceiling,3.0,EA/crew-hour
+1440404,L 1,Doors,1.0,EA/crew-hour
+1440404,L 1,Interior Finishes,312.0,SF/crew-hour
+1440405,L 1,Interior Walls,3.0,EA/crew-hour
+1440405,L 1,MEP,7.0,EA/crew-hour
+1440405,L 1,Ceiling,3.0,EA/crew-hour
+1440405,L 1,Doors,1.0,EA/crew-hour
+1440405,L 1,Interior Finishes,355.0,SF/crew-hour
+1440406,L 1,Interior Walls,4.0,EA/crew-hour
+1440406,L 1,MEP,7.0,EA/crew-hour
+1440406,L 1,Ceiling,3.0,EA/crew-hour
+1440406,L 1,Doors,1.0,EA/crew-hour
+1440406,L 1,Interior Finishes,437.0,SF/crew-hour
+1773267,L 1,Interior Walls,3.0,EA/crew-hour
+1773267,L 1,MEP,5.0,EA/crew-hour
+1773267,L 1,Ceiling,0.0,EA/crew-hour
+1773267,L 1,Doors,0.0,EA/crew-hour
+1773267,L 1,Interior Finishes,199.0,SF/crew-hour
+1773269,L 1,Interior Walls,3.0,EA/crew-hour
+1773269,L 1,MEP,4.0,EA/crew-hour
+1773269,L 1,Ceiling,0.0,EA/crew-hour
+1773269,L 1,Doors,1.0,EA/crew-hour
+1773269,L 1,Interior Finishes,291.0,SF/crew-hour
+1773270,L 1,Interior Walls,2.0,EA/crew-hour
+1773270,L 1,MEP,5.0,EA/crew-hour
+1773270,L 1,Ceiling,3.0,EA/crew-hour
+1773270,L 1,Doors,1.0,EA/crew-hour
+1773270,L 1,Interior Finishes,177.0,SF/crew-hour
+1773274,L 1,Interior Walls,2.0,EA/crew-hour
+1773274,L 1,MEP,7.0,EA/crew-hour
+1773274,L 1,Ceiling,3.0,EA/crew-hour
+1773274,L 1,Doors,1.0,EA/crew-hour
+1773274,L 1,Interior Finishes,92.0,SF/crew-hour
+1773278,L 1,Interior Walls,4.0,EA/crew-hour
+1773278,L 1,MEP,6.0,EA/crew-hour
+1773278,L 1,Ceiling,3.0,EA/crew-hour
+1773278,L 1,Doors,1.0,EA/crew-hour
+1773278,L 1,Interior Finishes,175.0,SF/crew-hour
+1773440,L 1,Interior Walls,2.0,EA/crew-hour
+1773440,L 1,MEP,51.0,EA/crew-hour
+1773440,L 1,Ceiling,0.0,EA/crew-hour
+1773440,L 1,Doors,1.0,EA/crew-hour
+1773440,L 1,Interior Finishes,275.0,SF/crew-hour

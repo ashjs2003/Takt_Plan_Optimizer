@@ -1,0 +1,6 @@
+trade,crew_id,max_available,rate,unit
+Interior Walls,interior_walls_crew,5.0,0.5,EA/crew-hour
+MEP,mep_rough_in_crew,5.0,2.0,EA/crew-hour
+Ceiling,ceiling_crew,5.0,0.5,EA/crew-hour
+Doors,doors_crew,5.0,0.5,EA/crew-hour
+Interior Finishes,interior_finishes_crew,5.0,50.0,SF/crew-hour
