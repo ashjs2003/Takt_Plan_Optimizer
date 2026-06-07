@@ -2,6 +2,8 @@
 
 This repository contains a preliminary takt planning optimization workflow and an interactive frontend for reviewing optimization results against a BIM model.
 
+You can view the Takt Plan Optimizer outputs [here](https://ashjs2003.github.io/Takt_Plan_Optimizer/).
+
 The current version is an early prototype focused on Level 1 (L1) of the building. It is intended as a starting point for evaluation, discussion, and iteration, and feedback is very welcome.
 
 The building BIM model was developed as a part of another class at Stanford, Computer Integrated AEC Global Teamwork (CEE 222). The video presentation of the building is here: 
